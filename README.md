@@ -1,3 +1,3 @@
 # cautious-sniffle
 
-It's a simple implementation of API cration in asp.net core web api.
+It's a simple implementation of API creation in asp.net core web API.
